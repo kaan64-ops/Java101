@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main{
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner imp = new Scanner(System.in);
        double boy,kilo,sonuç;
         System.out.print("Lütfen boyunuzu (metre cinsinden) giriniz :");
