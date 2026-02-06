@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main{
-    static void main(String[] args) {
+   public static void main(String[] args) {
         Scanner imp = new Scanner(System.in);
         double km;
         System.out.print("Kaç kilometre gittiğini yazınız : ");
