@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class Main{
-    static void main(String[] args) {
+   public static void main(String[] args) {
         Scanner imp = new Scanner(System.in);
         double ar=2.14,el=3.67,dom=1.11,muz=0.95,pa=5.0;
         System.out.println("Armut kaç kilo ? :");
